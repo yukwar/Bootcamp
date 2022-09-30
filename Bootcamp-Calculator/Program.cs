@@ -16,7 +16,7 @@ namespace Bootcamp_Calculator
         }
 
         /// <summary>
-        /// Resta de dos numeros enteros
+        /// Resta de dos numeros enteros, contra la excepcion
         /// </summary>
         /// <param name="a">1er valor</param>
         /// <param name="b">2do valor</param>
